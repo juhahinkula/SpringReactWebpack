@@ -1,11 +1,8 @@
 # SpringBootReact
-Spring Boot + React.js
-
-Spring Boot + React frontend
-
-Launch by typing: mvnw spring-boot:run
+Spring Boot + React.js + Webpack
 
     H2
     JPA
     REST
     React.js
+    Webpack
